@@ -1,0 +1,2 @@
+def getGoogleTranslationKey():
+    return "xxxx"
